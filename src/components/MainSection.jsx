@@ -15,7 +15,7 @@ export const MainSection = () => {
     },
     {
       ques: "Can I use Frontend Mentor projects in my portfolio?",
-      ans: "Yes, you can use projects completed on Frontend Mentor in your portfolio. It's an excellent way to showcase your skills to potential employers!",
+      ans: ", you can use projects completed on Frontend Mentor in your portfolio. It's an excellent way to showcase your skills to potential employers!",
       icon: true,
     },
     {
