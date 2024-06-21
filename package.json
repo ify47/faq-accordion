@@ -1,5 +1,6 @@
 {
   "name": "faq-accordion",
+  "homepage": "http://ify47.github.io/faq-accordion",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
