@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73ab47dd.css",
+    "main.js": "/static/js/main.e2c894f0.js",
+    "static/js/453.4940cf0d.chunk.js": "/static/js/453.4940cf0d.chunk.js",
+    "static/media/WorkSans-VariableFont_wght.ttf": "/static/media/WorkSans-VariableFont_wght.a0297787a1a192213b53.ttf",
+    "static/media/background-pattern-desktop.svg": "/static/media/background-pattern-desktop.621478cf83f8150af60411d3765de0eb.svg",
+    "index.html": "/index.html",
+    "static/media/icon-star.svg": "/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.73ab47dd.css.map": "/static/css/main.73ab47dd.css.map",
+    "main.e2c894f0.js.map": "/static/js/main.e2c894f0.js.map",
+    "453.4940cf0d.chunk.js.map": "/static/js/453.4940cf0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73ab47dd.css",
+    "static/js/main.e2c894f0.js"
+  ]
+}
